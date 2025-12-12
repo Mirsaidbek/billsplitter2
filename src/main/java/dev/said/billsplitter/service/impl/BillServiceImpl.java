@@ -10,6 +10,6 @@ public class BillServiceImpl implements BillService {
     @Override
     public BillSplitResponseDto split(BillSplitRequestDto dto) {
 
-        return
+        return null;
     }
 }
